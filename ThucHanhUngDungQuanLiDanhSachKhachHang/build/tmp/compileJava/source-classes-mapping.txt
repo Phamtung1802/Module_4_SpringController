@@ -1,0 +1,14 @@
+controller/cg/wbd/grandemonstration/service/impl/SimpleCustomerServiceImpl.java
+ controller.cg.wbd.grandemonstration.service.impl.SimpleCustomerServiceImpl
+controller/cg/wbd/grandemonstration/controller/AppConfig.java
+ controller.cg.wbd.grandemonstration.controller.AppConfig
+controller/cg/wbd/grandemonstration/service/CustomerService.java
+ controller.cg.wbd.grandemonstration.service.CustomerService
+controller/cg/wbd/grandemonstration/model/Customer.java
+ controller.cg.wbd.grandemonstration.model.Customer
+controller/cg/wbd/grandemonstration/controller/AppInit.java
+ controller.cg.wbd.grandemonstration.controller.AppInit
+controller/cg/wbd/grandemonstration/controller/CustomerController.java
+ controller.cg.wbd.grandemonstration.controller.CustomerController
+controller/cg/wbd/grandemonstration/service/CustomerServiceFactory.java
+ controller.cg.wbd.grandemonstration.service.CustomerServiceFactory
